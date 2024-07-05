@@ -90,3 +90,26 @@ The movie poster shows three warriors standing in a battlefield. The warrior in 
 
 ![image](https://github.com/VarshaYK/Gemini-Pro-Vision-Q-A-app-/assets/31321685/d421d572-991a-48bc-9de6-b6ce935af959)
 
+
+
+### Example 4
+
+#### Prompt
+Based on this image generate a blog
+
+#### Answer
+The beauty of nature is undeniable. From the towering mountains to the serene lakes, there is something about nature that speaks to our souls. Perhaps it is the reminder that there is something greater than ourselves out there, or maybe it is the sense of peace that we feel when we are surrounded by natural beauty. Whatever the reason, there is no denying the power of nature.
+
+One of the most beautiful places on Earth is undoubtedly the Austrian Alps. This mountain range is home to some of the most stunning scenery in the world, including towering peaks, lush forests, and crystal-clear lakes. If you are looking for a place to truly experience the beauty of nature, the Austrian Alps are a must-see.
+
+There are many different ways to enjoy the Austrian Alps. You can go hiking, biking, skiing, or simply relax and take in the scenery. No matter what you choose to do, you are sure to have a memorable experience.
+
+Here are some of the most popular things to do in the Austrian Alps:
+
+Hike the Grossglockner: This is the highest mountain in Austria, and the views from the summit are breathtaking.
+Bike the Tauern Cycle Path: This is a long-distance bike path that winds through the Austrian Alps. It is a great way to see the scenery and get some exercise.
+Ski the Arlberg Ski Resort: This is one of the largest ski resorts in the world, and it offers some of the best skiing in the Alps.
+Relax at Lake Wörthersee: This is a beautiful lake located in the heart of the Austrian Alps. It is a great place to swim, sunbathe, or simply relax and enjoy the scenery.
+No matter what you choose to do in the Austrian Alps, you are sure to have a memorable experience. The beauty of nature is undeniable, and the Austrian Alps are a living testament to that.
+
+![image](https://github.com/VarshaYK/Gemini-Pro-Vision-Q-A-app-/assets/31321685/58d30db2-531f-4114-aff8-605e1ed44e6f)
