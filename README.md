@@ -76,6 +76,8 @@ can you give me all the text information in the below report including the top h
   "phone": "022-21023248 / 21021849 / 25883988",
   "mobile": "9820379936/9205403010"
 }
+
+
 ![image](https://github.com/VarshaYK/Gemini-Pro-Vision-Q-A-app-/assets/31321685/267c6da1-858c-4bee-b631-2302d296c134)
 
 ### Example 3
