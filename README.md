@@ -112,4 +112,5 @@ Ski the Arlberg Ski Resort: This is one of the largest ski resorts in the world,
 Relax at Lake Wörthersee: This is a beautiful lake located in the heart of the Austrian Alps. It is a great place to swim, sunbathe, or simply relax and enjoy the scenery.
 No matter what you choose to do in the Austrian Alps, you are sure to have a memorable experience. The beauty of nature is undeniable, and the Austrian Alps are a living testament to that.
 
-![image](https://github.com/VarshaYK/Gemini-Pro-Vision-Q-A-app-/assets/31321685/58d30db2-531f-4114-aff8-605e1ed44e6f)
+![image](https://github.com/VarshaYK/Gemini-Pro-Vision-Q-A-app-/assets/31321685/a632f00e-3362-4e80-b464-e38ed8d64017)
+
