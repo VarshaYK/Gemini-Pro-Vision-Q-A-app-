@@ -48,7 +48,7 @@ can you give me all the text information in the below report including the top h
 #### Answer
 {
   "lab no": "5",
-  "patient name": "ketan chavan",
+  "patient name": "#######",
   "sex": "male",
   "age": "29 years",
   "ref by dr.": "patil m.b.b.s.",
@@ -68,7 +68,7 @@ can you give me all the text information in the below report including the top h
   "peripheral blood smear": "adequate on smear",
   "platelet count": "150000",
   "wbc on ps": "normal",
-  "doctor name": "pankaj shah",
+  "doctor name": "#######",
   "crystal data inc.": "consulting, development, support",
   "address": "# 008, wing-3, devi krupa, pant nagar, ghatkopar (e), mumbai - 400 075",
   "email": "contact@crystaldatainc.com",
@@ -77,8 +77,9 @@ can you give me all the text information in the below report including the top h
   "mobile": "9820379936/9205403010"
 }
 
+![image](https://github.com/VarshaYK/Gemini-Pro-Vision-Q-A-app-/assets/31321685/5d97d3df-1859-4572-a5f0-6a2141292198)
 
-![image](https://github.com/VarshaYK/Gemini-Pro-Vision-Q-A-app-/assets/31321685/267c6da1-858c-4bee-b631-2302d296c134)
+
 
 ### Example 3
 
